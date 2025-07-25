@@ -298,21 +298,25 @@ export default function Home() {
             <h3>Click the image</h3>
             <div
               className="product-preview-hero"
-              onClick={() => navigateTo(`/catalogue/mirror-orb-mockup`)}
+              onClick={() => navigateTo(`/catalogue/chamberlain-navy-ceramic`)}
             >
               <img src="/product_images/product_001.jpeg" alt="" />
             </div>
             <div
               className="product-preview-hero"
-              onClick={() => navigateTo(`/catalogue/earbud-ad-mockup`)}
+              onClick={() =>
+                navigateTo(`/catalogue/chamberlain-matcha-specials`)
+              }
             >
-              <img src="/product_images/product_002.jpeg" alt="" />
+              <img src="/product_images/product_007.jpeg" alt="" />
             </div>
             <div
               className="product-preview-hero"
-              onClick={() => navigateTo(`/catalogue/minimal-phone-mockup`)}
+              onClick={() =>
+                navigateTo(`/catalogue/strawberry-flavoured-coffee`)
+              }
             >
-              <img src="/product_images/product_003.jpeg" alt="" />
+              <img src="/product_images/product_008.jpeg" alt="" />
             </div>
           </div>
         </div>

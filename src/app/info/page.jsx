@@ -189,7 +189,7 @@ const InfoPage = () => {
               <GridDistortion
                 alt={"Emma Chamberlain"}
                 className="influencer-image"
-                imageSrc={`/influencer_images/Emma Chamberlain.jpg`}
+                imageSrc={`https://chamberlain-coffee-bjc9b5pyx-asad935477s-projects.vercel.app/influencer_images/EmmaChamberlain.jpg`}
                 grid={100}
                 mouse={0.1}
                 strength={0.15}

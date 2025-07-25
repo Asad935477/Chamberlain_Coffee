@@ -10,7 +10,7 @@ const articles = [
     ],
     author: "Nina Lang",
     date: "2025-04-10",
-    tags: ["mockups", "minimalism", "design"],
+    tags: ["Coffee", "Roasted", "Premium"],
   },
   {
     id: "A002",
@@ -23,7 +23,7 @@ const articles = [
     ],
     author: "Eliot Tanaka",
     date: "2025-04-11",
-    tags: ["motion", "branding", "visual"],
+    tags: ["accessories", "cutlery", "Extras"],
   },
   {
     id: "A003",
@@ -36,7 +36,7 @@ const articles = [
     ],
     author: "Jules Moreno",
     date: "2025-04-12",
-    tags: ["sound", "UX", "digital"],
+    tags: ["Morning", "Coffee", "Refreshing"],
   },
   {
     id: "A004",
@@ -49,7 +49,7 @@ const articles = [
     ],
     author: "Cam Park",
     date: "2025-04-13",
-    tags: ["curation", "assets", "platform"],
+    tags: ["Collections", "Premium", "Ultima"],
   },
   {
     id: "A005",
@@ -60,9 +60,9 @@ const articles = [
       "We're creators too. We understand the excitement of finding the perfect mug, the right roast, or that one tool that makes mornings easier. That empathy shows up in our details—from our biodegradable pods to our limited-edition merch. When we say we create for creators, we mean it. Our goal is to help you build rituals that support your flow and brighten your space. We’re not just a coffee company—we’re a partner in your creative routine.",
       "The right product doesn’t just help—it inspires. When you sip our blends or use our accessories, you’re interacting with something designed to elevate your day. That’s why we test, refine, and listen constantly. Chamberlain Coffee is about finding joy in the everyday—and offering tools that help you do that with flavor, simplicity, and style.",
     ],
-    author: "Avery Kim",
+    author: "Emma Chamberlain",
     date: "2025-04-14",
-    tags: ["design tools", "creativity", "workflow"],
+    tags: ["Ready to drink", "Canned", "cold coffee"],
   },
 ];
 

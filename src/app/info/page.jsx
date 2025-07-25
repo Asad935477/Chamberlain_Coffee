@@ -173,6 +173,8 @@ const InfoPage = () => {
               </div>
               <div className="revealer">
                 <p>instagram.com/chamberlaincoffee/</p>
+              </div>
+              <div className="revealer">
                 <p>instagram.com/emmachamberlain/</p>
               </div>
               <br />
